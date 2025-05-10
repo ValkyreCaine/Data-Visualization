@@ -5,7 +5,7 @@ Hello There!
 Thank you for taking a look at my Data Visualization Project with UCI's Data Analysis BootCamp! Everything that you will need to review is in the Pymaceuticals, Inc folder, the notebook with the main code to grade is in that folder, and the CSV's are in the Data subfolder. I did take a few liberties in the naming conventions of this assignment since it is a bit of a darker subject, so hopfully my names make you giggle a little bit! 
 
 Let's jump into it! 
-With this project I am cosplaying as a senior data anlyst with a new pharaceutical company, Pymaceuticals, inc, specializing in anti-cancer Medications. We wanted to begin screening potential treatements for squamous cell carcinoma (SCC), a commonly occuring form of skin cancer. 
+With this project I am cosplaying as a senior data anlyst with a new pharaceutical company, Pymaceuticals, inc, specializing in anti-cancer Medications. We wanted to begin screening potential treatments for squamous cell carcinoma (SCC), a commonly occuring form of skin cancer. 
 We are conducting our analysis on 249 mice who were identified to have SCC and received treatment of different drug regimens over 45 days.
 
 All analysis projects start with the ETL fundamentals so I extracted the dataset, transformed it by cleaning and removing duplicates, and loaded it into a Pandas Dataframe to get summary stats on drug regimen, mean, median, variance, standard deviation, and standard error on the tumor sizes. Then generated bar charts, pie charts, quartiles, outliers, boxplots, line, scatter plots, and correlation regression with Pandas and PyPlot. 
