@@ -17,7 +17,6 @@ All analysis projects start with the ETL fundamentals so I extracted the dataset
 
 
 
-Here is my final anlysis:
 Within the study of tumor shrinking regimens, this trail concludes that Capomulin was the most success at reducing the tumors assocaiated with squamous cell carcinoma. The second most performative drug was Ramicane. In a specific subject, mouse m957, had a 46 mm3 tumor on day 10 of treatment, but shrunk the tumor down to 32.5 mm3 by day 35. While the tumor size rebound by around 1.5 mm3 by the trail end, longer studies of this medication should be pursued. Capomulin has shown to be affective towards both male and female mice, and mice of all weight and tumor sizes.
 
 Thank you!
